@@ -1,0 +1,30 @@
+{
+  "name": "api-sunat",
+  "version": "1.0.0",
+  "description": "diseñando-endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleeweb/api-sunat.git"
+  },
+  "keywords": [
+    "registar",
+    "factura",
+    "y",
+    "boleta",
+    "sunat"
+  ],
+  "author": "neyser slee caballero nole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleeweb/api-sunat/issues"
+  },
+  "homepage": "https://github.com/sleeweb/api-sunat#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
