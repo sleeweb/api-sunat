@@ -1,4 +1,5 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
+import { Request, Response } from 'express';
 import axios from 'axios';  // librería axios
 
 const app = express();
